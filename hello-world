@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#This program should output Hello World!
+
+echo 'Hello world!'
+
+exit 0
+
