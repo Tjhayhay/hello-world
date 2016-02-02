@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#This script will do subraction.
+
+x=`expr 3 - 4`
+echo '3 - 4 = '$x
+
+exit 0
