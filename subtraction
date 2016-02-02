@@ -5,4 +5,8 @@
 x=`expr 3 - 4`
 echo '3 - 4 = '$x
 
+y=$((20-31))
+z=`expr 83 - 42`
+echo 'y - z = '`expr $y - $z`
+
 exit 0
